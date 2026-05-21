@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/bitburner-typescript.iml" filepath="$PROJECT_DIR$/.idea/bitburner-typescript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bitburner-scripts.iml" filepath="$PROJECT_DIR$/.idea/bitburner-scripts.iml" />
     </modules>
   </component>
 </project>
